@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/aryxnshah" target="blank"><img src="https://img.shields.io/twitter/follow/aryxnshah?logo=twitter&style=for-the-badge" alt="aryxnshah" /></a> </p>
 
-- 🔭 I’m currently working on **a flutter project.**
-- 🌱 I’m currently learning **python, ML concepts.**
+- 🔭 I’m currently pursuing my Masters in Applied Data Science at USC.**
 - 🤝 I’m looking to collaborate on **ML projects.**
-- 💬 Ask me about **Flutter, Data Science and python modules**
+- 💬 Ask me about **NLP, Data Science and python modules**
 - 📫 How to reach me **aryanshah1902@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
