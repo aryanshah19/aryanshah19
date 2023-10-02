@@ -8,7 +8,7 @@
 - 🔭 I’m currently pursuing my Masters in Applied Data Science at **USC.**
 - 🤝 I’m looking to collaborate on **ML projects.**
 - 💬 Ask me about **NLP, Data Science and python modules**
-- 📫 How to reach me **aryanshah1902@gmail.com**
+- 📫 Reach me **aryanshah1902@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
