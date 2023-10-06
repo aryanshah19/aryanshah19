@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Shah</h1>
-<h3 align="center">A passionate backend developer from India, like frontend too:)</h3>
+<h3 align="center">A passionate Data Science Grad student at USC✌🏻:)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanshah19&label=Profile%20views&color=0e75b6&style=flat" alt="aryanshah19" /> </p>
 
